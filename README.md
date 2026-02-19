@@ -1,100 +1,59 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=monghithub+%F0%9F%91%8B;Software+Engineer+%26+DevOps;AI+%2F+LLM+Enthusiast;Cloud+Native+Architect" alt="Typing SVG" />
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:89b4fa&height=200&section=header&text=monghithub&fontSize=42&fontColor=cdd6f4&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20AI%20%2F%20LLM&descSize=16&descColor=bac2de&descAlignY=55" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=monghithub&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Cloud+Native+Architect;AI+%2F+LLM+Enthusiast;Microservices+%26+Event-Driven;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
+<br>
 
-## 🧠 AI / LLM
+### `> tech_stack`
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch&theme=dark" alt="AI Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,cpp,pytorch,docker,kubernetes,nginx,linux,bash,git,githubactions&perline=7&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/LLM_Inference-FF6F00?style=for-the-badge&logo=meta&logoColor=white" alt="LLM Inference" />
-  <img src="https://img.shields.io/badge/MCP_Servers-6366F1?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logo=opensearch&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-10B981?style=flat-square&logo=opensearch&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Temporal.io-000?style=flat-square&logo=temporal&logoColor=white" alt="Temporal" />
+  <img src="https://img.shields.io/badge/CQRS-8B5CF6?style=flat-square" alt="CQRS" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
 </p>
 
-## 🛠️ Languages & Frameworks
+<br>
+
+### `> stats`
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,python,cpp,dotnet,spring&theme=dark" alt="Languages" />
-  </a>
-</p>
-
-## ☁️ Cloud Native & DevOps
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux,ubuntu,bash&theme=dark" alt="DevOps" />
-  </a>
+  <img width="49%" src="https://github-readme-stats-huy71iuhx-monghithubs-projects.vercel.app/api?username=monghithub&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&icon_color=cba6f7" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=monghithub&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/K9s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K9s" />
-  <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Let's Encrypt" />
-  <img src="https://img.shields.io/badge/Certbot-FF6D00?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Certbot" />
+  <img width="40%" src="https://github-readme-stats-huy71iuhx-monghithubs-projects.vercel.app/api/top-langs/?username=monghithub&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🏗️ Architecture & Patterns
+<br>
+
+### `> trophies`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=fastapi&logoColor=white" alt="Microservices" />
-  <img src="https://img.shields.io/badge/CQRS-8B5CF6?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="CQRS" />
-  <img src="https://img.shields.io/badge/Saga_Pattern-F59E0B?style=for-the-badge&logo=temporal&logoColor=white" alt="Saga" />
-  <img src="https://img.shields.io/badge/Temporal.io-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="Temporal" />
+  <img src="https://github-profile-trophy-two-sigma.vercel.app/?username=monghithub&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </p>
 
-## 📱 Mobile
+<br>
+
+### `> activity`
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" alt="Mobile" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monghithub&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&area_color=cba6f7&hide_border=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-huy71iuhx-monghithubs-projects.vercel.app/api?username=monghithub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=monghithub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-huy71iuhx-monghithubs-projects.vercel.app/api/top-langs/?username=monghithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-two-sigma.vercel.app/?username=monghithub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monghithub&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+<br>
 
 <p align="center">
   <picture>
@@ -103,3 +62,11 @@
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/monghithub/monghithub/output/github-snake.svg" />
   </picture>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=monghithub&color=cba6f7&style=flat-square&label=visitors" alt="Profile Views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:89b4fa&height=100&section=footer" />

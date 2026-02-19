@@ -72,18 +72,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monghithub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-huy71iuhx-monghithubs-projects.vercel.app/api?username=monghithub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=monghithub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monghithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-huy71iuhx-monghithubs-projects.vercel.app/api/top-langs/?username=monghithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monghithub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-cdxbfukjt-monghithubs-projects.vercel.app/?username=monghithub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </p>
 
 ## 📈 Activity
